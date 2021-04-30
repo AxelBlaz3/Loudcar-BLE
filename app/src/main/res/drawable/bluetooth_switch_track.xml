@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="-10dp"
+        android:left="-8dp"
+        android:right="-8dp"
+        android:top="-10dp">
+        <shape>
+            <stroke
+                android:width="2dp"
+                android:color="@color/grey" />
+            <padding
+                android:bottom="2dp"
+                android:left="2dp"
+                android:right="2dp"
+                android:top="2dp" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/bluetooth_on"
+        android:right="20dp" />
+    <item>
+        <rotate
+            android:fromDegrees="90"
+            android:toDegrees="180">
+            <shape android:shape="line">
+                <stroke android:width="2dp" />
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:drawable="@drawable/bluetooth_off"
+        android:left="20dp" />
+</layer-list>

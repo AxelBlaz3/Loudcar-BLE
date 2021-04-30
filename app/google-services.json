@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912836848762",
+    "firebase_url": "https://loudcar-c9b4f-default-rtdb.firebaseio.com",
+    "project_id": "loudcar-c9b4f",
+    "storage_bucket": "loudcar-c9b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912836848762:android:07cf9b4b333c458647dfc3",
+        "android_client_info": {
+          "package_name": "com.wielabs.loudcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912836848762-tvcnda7i93tojgf88somf9c4rrv3ogsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wielabs.loudcar",
+            "certificate_hash": "e9565dcacf3d6f7a5bcfdcc9b5c52e474173b67c"
+          }
+        },
+        {
+          "client_id": "912836848762-3ddour318k2v5v2hajrg63q69e0tb0ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3453hFXTCDrB-JUiF8YThpzgQ4qmWEhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912836848762-3ddour318k2v5v2hajrg63q69e0tb0ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
